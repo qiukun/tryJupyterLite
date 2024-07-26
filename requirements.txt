@@ -1,3 +1,6 @@
+# My addons
+jupyterlab-filesystem-access
+
 # Core modules (mandatory)
 jupyterlite-core==0.3.0
 jupyterlab~=4.1.6
